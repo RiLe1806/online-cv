@@ -8,17 +8,16 @@ sidebar:
 
     # Profile information
     name: Lennard Ricken
-    tagline: Softwareengineer
+    tagline: Softwareentwickler
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lennard@ricken.hamburg
     phone: 0176 43808024
-    timezone: CET
     citizenship: German
-    website: ricken.hamburg #do not add http://
-    linkedin: Lennard Ricken
-    xing: Lennard Ricken
+    website: 
+    linkedin: lennard-ricken-0b9597263
+    xing: Lennard_Ricken
     github: RiLe1806
     telegram: # add your nickname without '@' sign
     gitlab: CreativeLord
@@ -30,29 +29,29 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Sprachen
       info:
-        - idiom: German
-          level: Native
+        - idiom: Deutsch
+          level: Muttersprache
 
-        - idiom: English
-          level: Professional
+        - idiom: Englisch
+          level: Verhandlungssicher
 
 
     interests:
-      title: Interests
+      title: Interessen
       info:
-        - item: Bouldering
+        - item: Bouldern, Fitness
           link:
 
-        - item: Coding
+        - item: Programmieren
           link:
 
-        - item: Dungeons and Dragons
+        - item: Kochen
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -61,10 +60,10 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Ausbildung
     info:
-      - degree: BSc in Computing Science
-        university: University of Hamburg
+      - degree: BSc in Informatik
+        university: Universität Hamburg
         time: 2014 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -75,10 +74,10 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Erfahrungen
     info:
       - role: Product Owner CAD
-        time: 02/2023 - Present
+        time: 02/2023 - Heute
         company: ECE Group Services 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -90,9 +89,10 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: IT-Specialist
+            - Budget und Lizenzmanagement
+            - Strategische Planung (Road Map)
+            - Weiterentwicklung der Produkte
+      - role: Softwareentwickler
         time: 06/2021 - 02/2023
         company: ECE Group Services 
         details: |
@@ -101,9 +101,11 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: Working Student (Softwareengineering)
+            - Beratung und Entwicklung im Bereich Sharepoint 2019
+            - Beratung und Entwicklung der internen HR Systeme
+            - Eigenentwicklung einer DeepL-App zur Anwendung im Intranet
+            - Sharepoint 2019 Betrieb
+      - role: Werkstudent - Softwareentwicklung
         time: 12/2018 - 06/2021
         company: ECE Group Services 
         details: |
@@ -112,9 +114,10 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: CEO
+            - Unterstützung der Migration von Sharepoint 2010 zu Sharepoint 2019
+            - Frontendentwicklung und Beratung bei der Implementation eines neuen Intranets
+            - Unterstützung bei der Entwicklung einer Freigabe-App auf Basis von Angular 2
+      - role: Selbstständiger Unternehmer
         time: 01/2017 - 12/2021
         company: Ricken Feldmann GbR
         details: |
@@ -123,9 +126,10 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: Working Student - IT Support
+            - Beratung
+            - Automatisierung von Prozessen
+            - Webentwicklung
+      - role: Werkstudent - IT Support
         time: 01/2015 - 01/2021
         company: Justcom uG
         details: |
@@ -134,49 +138,48 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Webentwicklung
+            - Automatisierung von Standardsoftware
+            - Serveradministration
 projects:
-    title: Projects
+    title: Projekte
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Einige meiner privaten Projekte. Hauptsächlich handelt es sich dabei um Webanwendungen und Integrationen. 
     assignments:
       - title: GrocerAI
-        link: "#hook"
-        tagline: "A shopping list that catgeorizes and orders items with the help of machine learning. No more manually sorting your shopping list."
+        link: 
+        tagline: "Eine Einkaufsliste, die sich mit Hilfe von Machine Learning selbst sortiert und Produkte kategorisiert"
 
       - title: Discord Bot
         link: "#"
-        tagline: "A custom Discord bot for a discord server based on financial analysis"
+        tagline: "Ein interaktiver Discord-Bot für einen Finanzmarktserver"
 
-      - title: Unnamed
+      - title: Bisher Unbenannt
         link: "#"
-        tagline: "A new platform to organize, manage and stream esports tournaments for streamers"
+        tagline: "Eine Webplattform zum Organisieren, Austragen und Streamen von Esportturnieren"
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python
-        level: 95%
-
       - name: Javascript & TypeScript
+        level: 100%
+        
+      - name: HTML5 & CSS
         level: 100%
 
       - name: Angular & React
         level: 95%
-
-      - name: HTML5 & CSS
-        level: 100%
-
-      - name: C# & Java
-        level: 70%
+        
+      - name: Python
+        level: 90%
 
       - name: Node.js
         level: 80%
+
+      - name: C# & Java
+        level: 70%
 
 footer: >
     
