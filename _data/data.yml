@@ -63,9 +63,8 @@ education:
         time: 2014 - 2022
         details: |
           Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
-                - Abschlussnote: 2,3
-                
-furtherEducation:
+                - Abschlussnote: 2,3            
+further-education:
     title: Weiterbildungen
     info:
       - degree: Azure Fundamentals (AZ-900)
