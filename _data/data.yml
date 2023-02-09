@@ -62,8 +62,9 @@ education:
         university: Universität Hamburg
         time: 2014 - 2022
         details: |
-            Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
+          Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
                 - Abschlussnote: 2,3
+                
       - degree: Azure Fundamentals (AZ-900)
         university: Microsoft
         time: Oktober 2022
@@ -83,7 +84,6 @@ experiences:
         time: 02/2023 - Heute
         company: ECE Group 
         details: |
-          Verwalten und Vorantreiben des CAD-Produktes innerhalb der ECE Group. 
             - Budget und Lizenzmanagement
             - Strategische Planung (Road Map)
             - Weiterentwicklung der Produkte
@@ -91,7 +91,6 @@ experiences:
         time: 06/2021 - 02/2023
         company: ECE Group 
         details: |
-          Softwareentwicklung und Beratung von Fachbereichen.
             - Beratung und Entwicklung im Bereich Sharepoint 2019
             - Beratung und Entwicklung der internen HR Systeme
             - Eigenentwicklung einer DeepL-App zur Anwendung im Intranet
@@ -100,7 +99,6 @@ experiences:
         time: 12/2018 - 06/2021
         company: ECE Group 
         details: |
-          Unterstützend in der Webentwicklung, Administration, sowie UX-Design. 
             - Unterstützung der Migration von Sharepoint 2010 zu Sharepoint 2019
             - Frontendentwicklung und Beratung bei der Implementation eines neuen Intranets
             - Unterstützung bei der Entwicklung einer Freigabe-App auf Basis von Angular 2
@@ -108,7 +106,6 @@ experiences:
         time: 01/2017 - 12/2021
         company: Ricken Feldmann GbR
         details: |
-          
             - Beratung
             - Automatisierung von Prozessen
             - Webentwicklung
@@ -116,7 +113,6 @@ experiences:
         time: 01/2015 - 01/2021
         company: Justcom GmbH
         details: |
-          Unterstützer bei IT-Prozessen. Entwicklung einer Serverinfrastruktur für automatische Softwarerollouts
             - Webentwicklung
             - Automatisierung von Standardsoftware
             - Serveradministration
