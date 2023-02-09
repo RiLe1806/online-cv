@@ -3,8 +3,8 @@
 <div class="education-container container-block">
 
     <h2 class="container-block-title">
-       {% if furtherEducation.link %}
-          <a href="{{ furtherEducation.link }}" target="_blank">{{ furtherEducation.title }}</a>
+       {% if furtherEducation.info.link %}
+          <a href="{{ furtherEducation.info.link }}" target="_blank">{{ furtherEducation.title }}</a>
           {% else %}
           {{ furtherEducation.title }}
        {% endif %}
