@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,9 +18,9 @@ sidebar:
     website: 
     linkedin: lennard-ricken-0b9597263
     xing: Lennard_Ricken
-    github: RiLe1806
+    github: 
     telegram: # add your nickname without '@' sign
-    gitlab: CreativeLord
+    gitlab: 
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -44,7 +44,7 @@ sidebar:
         - item: Bouldern, Fitness
           link:
 
-        - item: Programmieren
+        - item: Programmieren / IoT
           link:
 
         - item: Kochen
@@ -64,15 +64,26 @@ education:
     info:
       - degree: BSc in Informatik
         university: Universität Hamburg
-        time: 2014 - 2021
+        time: 2014 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
+                - Abschlussnote: 2,3
+        
+            
+    title: Weiterbildung
+    info:
+      - degree: Azure Fundamentals (AZ-900)
+        university: Microsoft
+        time: Oktober 2022
+        details: |
+          Microsoft-Zertifikat zu den Grundlagen von Azure
+      - degree: "Python: Data Science, Machine Learning & Neuronale Netze"
+        university: Udemy
+        time: März 2021
+        link: https://www.udemy.com/certificate/UC-c4d4e3ad-3933-4f1e-850d-22d57b6ddca5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
+        details: |
+          30 Stunden Videokurs mit Aufgaben zum Thema Machine Learning & Neuronale Netze
+  
 experiences:
     title: Erfahrungen
     info:
