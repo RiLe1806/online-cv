@@ -49,12 +49,25 @@ sidebar:
 
         - item: Kochen
           link:
+          
+    softskills:
+    title: Softskills
+    info:
+      - item: Empathie
+        link: 
+        
+      - item: Auffassungsgabe
+        link: 
 
-career-profile:
-    title: Über mich
-    summary: |
-      Bereits als Kind hat mich Technik immer fasziniert. Vom ersten selbstgebauten PC an ist diese Leidenschaft nie erloschen. 
-      Ich bin eine lösungsorientierte Person mit einer hohen Auffasungsgabe. Die Optimierung und Automatisierung von Prozessen liegt mir im Blut. Am liebsten arbeite ich dabei in einem eingespielten Team, um die beste Lösung zu ermöglichen. 
+      - item: Analytisches Denken
+        link: 
+        
+      - item: Kommunikationsfähigkeit
+        link: 
+
+      - item: Bereitschaft Neues zu lernen
+        link:
+
 education:
     title: Ausbildung
     info:
@@ -158,6 +171,7 @@ skills:
 
       - name: C# & Java
         level: 70%
+       
 
 footer: >
     
