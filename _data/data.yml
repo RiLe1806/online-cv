@@ -69,7 +69,7 @@ education:
             Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
                 - Abschlussnote: 2,3
         
-            
+education:            
     title: Weiterbildung
     info:
       - degree: Azure Fundamentals (AZ-900)
@@ -89,23 +89,15 @@ experiences:
     info:
       - role: Product Owner CAD
         time: 02/2023 - Heute
-        company: ECE Group Services 
+        company: ECE Group 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Verwalten und Vorantreiben des CAD-Produktes innerhalb der ECE Group. 
             - Budget und Lizenzmanagement
             - Strategische Planung (Road Map)
             - Weiterentwicklung der Produkte
       - role: Softwareentwickler
         time: 06/2021 - 02/2023
-        company: ECE Group Services 
+        company: ECE Group 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,7 +110,7 @@ experiences:
             - Sharepoint 2019 Betrieb
       - role: Werkstudent - Softwareentwicklung
         time: 12/2018 - 06/2021
-        company: ECE Group Services 
+        company: ECE Group 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -142,7 +134,7 @@ experiences:
             - Webentwicklung
       - role: Werkstudent - IT Support
         time: 01/2015 - 01/2021
-        company: Justcom uG
+        company: Justcom GmbH
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -155,19 +147,19 @@ experiences:
 projects:
     title: Projekte
     intro: >
-      Einige meiner privaten Projekte. Hauptsächlich handelt es sich dabei um Webanwendungen und Integrationen. 
+      Hier folgen einige meiner privaten Projekte. Sie unterstreichen meine Begeisterung für die Entwicklung und mein Interesse neue Dinge zu lernen. 
     assignments:
       - title: GrocerAI
         link: 
-        tagline: "Eine Einkaufsliste, die sich mit Hilfe von Machine Learning selbst sortiert und Produkte kategorisiert"
+        tagline: "Intelligente Einkaufsliste, die mit Hilfe von Machine Learning Produkte kategorisiert und entsprechend sortiert. Als Webanwendung in Angular geschrieben."
 
-      - title: Discord Bot
-        link: "#"
-        tagline: "Ein interaktiver Discord-Bot für einen Finanzmarktserver"
+      - title: Discordbot
+        link: "https://github.com/SuperstonkQuants/discord_bot"
+        tagline: "Interaktiver Discordbot für Leaderboards, Rechteverwaltung und Minispiele. Entwickelt in Python."
 
-      - title: Bisher Unbenannt
-        link: "#"
-        tagline: "Eine Webplattform zum Organisieren, Austragen und Streamen von Esportturnieren"
+      - title: Noch unbenannt
+        link: 
+        tagline: "Eine Webplattform zum Organisieren, Austragen und Streamen von Esportturnieren. Entwicklung in React."
 
 
 skills:
