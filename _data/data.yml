@@ -51,22 +51,22 @@ sidebar:
           link:
           
     softskills:
-    title: Softskills
-    info:
-      - item: Empathie
-        link: 
-        
-      - item: Auffassungsgabe
-        link: 
+      title: Softskills
+      info:
+        - item: Empathie
+          link: 
 
-      - item: Analytisches Denken
-        link: 
-        
-      - item: Kommunikationsfähigkeit
-        link: 
+        - item: Auffassungsgabe
+          link: 
 
-      - item: Bereitschaft Neues zu lernen
-        link:
+        - item: Analytisches Denken
+          link: 
+
+        - item: Kommunikationsfähigkeit
+          link: 
+
+        - item: Bereitschaft Neues zu lernen
+          link:
 
 education:
     title: Ausbildung
