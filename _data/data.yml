@@ -51,14 +51,10 @@ sidebar:
           link:
 
 career-profile:
-    title: Profil
+    title: Über mich
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Bereits als Kind hat mich Technik immer fasziniert. Vom ersten selbstgebauten PC an ist diese Leidenschaft nie erloschen. 
+      Ich bin eine lösungsorientierte Person mit einer hohen Auffasungsgabe. Die Optimierung und Automatisierung von Prozessen liegt mir im Blut. Am liebsten arbeite ich dabei in einem eingespielten Team, um die beste Lösung zu ermöglichen. 
 education:
     title: Ausbildung
     info:
@@ -99,11 +95,7 @@ experiences:
         time: 06/2021 - 02/2023
         company: ECE Group 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Softwareentwicklung und Beratung von Fachbereichen.
             - Beratung und Entwicklung im Bereich Sharepoint 2019
             - Beratung und Entwicklung der internen HR Systeme
             - Eigenentwicklung einer DeepL-App zur Anwendung im Intranet
@@ -112,11 +104,7 @@ experiences:
         time: 12/2018 - 06/2021
         company: ECE Group 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Unterstützend in der Webentwicklung, Administration, sowie UX-Design. 
             - Unterstützung der Migration von Sharepoint 2010 zu Sharepoint 2019
             - Frontendentwicklung und Beratung bei der Implementation eines neuen Intranets
             - Unterstützung bei der Entwicklung einer Freigabe-App auf Basis von Angular 2
@@ -124,11 +112,7 @@ experiences:
         time: 01/2017 - 12/2021
         company: Ricken Feldmann GbR
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          
             - Beratung
             - Automatisierung von Prozessen
             - Webentwicklung
@@ -136,11 +120,7 @@ experiences:
         time: 01/2015 - 01/2021
         company: Justcom GmbH
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Unterstützer bei IT-Prozessen. Entwicklung einer Serverinfrastruktur für automatische Softwarerollouts
             - Webentwicklung
             - Automatisierung von Standardsoftware
             - Serveradministration
