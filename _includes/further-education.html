@@ -3,16 +3,18 @@
 <div class="education-container container-block">
 
     <h2 class="container-block-title">
-       {% if furtherEducation.info.link %}
-          <a href="{{ furtherEducation.info.link }}" target="_blank">{{ furtherEducation.title }}</a>
-          {% else %}
-          {{ furtherEducation.title }}
-       {% endif %}
+       {{ furtherEducation.title }}
     </h2>
 
     {% for graduation in furtherEducation.info %}
     <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
+      <h4 class="degree">
+      {% if graduation.link %}
+          <a href="{{ graduation.link }}" target="_blank">{{ graduation.degree }}</a>
+          {% else %}
+          {{ graduation.degree }}
+       {% endif %}  
+      </h4>
       <h5 class="meta">{{ graduation.university }}</h5>
       <div class="time">{{ graduation.time }}</div>
     </div><!--//item-->
