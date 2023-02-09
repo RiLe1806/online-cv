@@ -65,9 +65,13 @@ education:
           Eine Evaluation von interactive Machine Learning im Bereich der Multi Label Text Classification am Beispiel der ECE Group
                 - Abschlussnote: 2,3
                 
+furtherEducation:
+    title: Weiterbildungen
+    info:
       - degree: Azure Fundamentals (AZ-900)
         university: Microsoft
         time: Oktober 2022
+        link: https://www.credly.com/badges/c04e638f-9c89-4f4b-bf95-ab7151cc07df/public_url
         details: |
           Microsoft-Zertifikat zu den Grundlagen von Azure
       - degree: "Python: Data Science, Machine Learning & Neuronale Netze"
